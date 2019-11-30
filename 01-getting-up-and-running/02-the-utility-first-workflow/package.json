@@ -22,7 +22,7 @@
   "homepage": "https://github.com/hradecek/tailwindcss-course#README.md",
   "dependencies": {
     "autoprefixer": "^9.7.2",
-    "postcss": "^7.0.23",
+    "postcss-cli": "^6.1.3",
     "tailwindcss": "^1.1.4"
   }
 }
